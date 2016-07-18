@@ -1,5 +1,5 @@
 # WDDStatusBarHUD
-状态栏指示器
+简单的状态栏指示器
 
 显示普通文字
 - (IBAction)message:(id)sender {
